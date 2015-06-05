@@ -23,6 +23,7 @@ public class AsignaRandomToArray {
        while(largo > 0){
        pareja.setX(x[largo -1]);
        pareja.setY(number.AleatorioEntre0y1());
+       valores.add(pareja);
        largo -- ;  
        }
         return valores ;        
