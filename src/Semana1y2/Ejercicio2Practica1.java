@@ -14,11 +14,12 @@ import java.util.Scanner;
 public class Ejercicio2Practica1 {
     public static void main(String[] args) {
         
-        String nombre;
+       /* String nombre;
         Scanner entrada = new Scanner(System.in);
         System.out.println("Enter your name");
          nombre = entrada.nextLine();
         System.out.println("Hello"+" "+ nombre);
+               */
          
          
         
