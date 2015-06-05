@@ -13,7 +13,7 @@ import Chapter6.RandomNumber;
  */
 public class AsignaRandomToArray {
     
-    public ArrayList  Asigna (double []x){
+    public ArrayList  Asigna (String []x){
        ArrayList<ParejaDeCoordenadas> valores = new ArrayList<ParejaDeCoordenadas>();
        
        int largo = x.length;
