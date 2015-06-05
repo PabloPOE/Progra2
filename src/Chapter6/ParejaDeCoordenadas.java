@@ -10,10 +10,10 @@ package Chapter6;
  * @author Usuario
  */
 public class ParejaDeCoordenadas {
-     double x = 0.0;
+     String x = "";
      double y = 0.0;
 
-    public ParejaDeCoordenadas(double x, double y)
+    public ParejaDeCoordenadas(String x, double y)
     {
         this.x = x;
         this.y = y;
@@ -24,11 +24,11 @@ public class ParejaDeCoordenadas {
 
     }
 
-    public double getX() {
+    public String getX() {
         return x;
     }
 
-    public void setX(double x) {
+    public void setX(String x) {
         this.x = x;
     }
 
